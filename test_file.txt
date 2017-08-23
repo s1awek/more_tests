@@ -2,6 +2,11 @@ new line
 another line
 next line
 next line
+<<<<<<< HEAD
 change 7
 net 
 change
+=======
+net 
+now
+>>>>>>> master

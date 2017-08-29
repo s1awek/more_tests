@@ -23,7 +23,11 @@ next line
 change 7
 net 
 change
+
 net 
+
+net
+
 
 new line
 another line
@@ -32,6 +36,10 @@ next line
 change 7
 net 
 change
+
 net 
 
+
+
+net
 
